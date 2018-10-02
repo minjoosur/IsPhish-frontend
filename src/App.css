@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  display: flex;
+  background-color: #3498db;
+  height: 12vh;
+  color: white;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 5vh;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.Url-search-box {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+  justify-content: center;
+  width: 40em;
+  margin-bottom: 1em;
+}
+
+.Url-button {
+  background-color: #2980b9;
+  margin: 1em;
+}
+
+#phishUrl {
+  width: 25em;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
