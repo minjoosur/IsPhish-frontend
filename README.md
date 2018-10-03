@@ -14,7 +14,8 @@ https://isphish-opendns.herokuapp.com/
 - https://greatman.cf/dir/secure.htm
 - http://as13232.my1.ru/fb-help-center.html
 - https://tinyurl.com/y84sjqk2
-- ... and 28269 more!
+- ... and 28269 more! 
+- More Phish websites as a JSON file! (https://drive.google.com/file/d/1Yza07pZUxDAMgJ8IoM3JUYxWzQ27Flc9/view?usp=sharing)
 
 
 More Info:
